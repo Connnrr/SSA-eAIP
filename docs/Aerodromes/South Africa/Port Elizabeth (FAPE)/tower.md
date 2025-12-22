@@ -28,6 +28,7 @@ Runway 26: Left Hand
 ### VFR Runway 26 Departures
 
 | Departure | Report Point |
+| :---------: | :---------: |
 | ALBAN 26 | Salt Lake |
 | GREENBUSHES 26 | Abeam Seaview |
 
